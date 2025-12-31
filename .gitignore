@@ -1,0 +1,14 @@
+# STM32 build folders
+Debug/
+Release/
+
+# Eclipse / CubeIDE files
+.build/
+.settings/
+.metadata/
+
+# Compiled output files
+*.elf
+*.map
+*.bin
+*.hex
